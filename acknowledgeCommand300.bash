@@ -1,0 +1,1 @@
+echo -n -e '\x06\x30\x30\x30\x0D\x0A' > /dev/ttyUSB0
