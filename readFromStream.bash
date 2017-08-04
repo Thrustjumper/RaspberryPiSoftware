@@ -1,1 +1,1 @@
-cat /dev/ttyUSB0
+sudo cat /dev/ttyUSB0
