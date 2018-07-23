@@ -1,0 +1,8 @@
+[ERROR][00:05:24][at.htlgkr.aems.raspberry.reader.Reader][run] -> Process for plugin "Gas Meter" has terminated
+
+[ERROR][00:05:24][at.htlgkr.aems.raspberry.reader.Reader][run] -> python: can't open file 'gas_meter.py': [Errno 2] No such file or directory
+
+[ERROR][00:05:37][at.htlgkr.aems.raspberry.reader.Reader][run] -> Process for plugin "Gas Meter" has terminated
+
+[ERROR][00:05:37][at.htlgkr.aems.raspberry.reader.Reader][run] -> python: can't open file 'gas_meter.py': [Errno 2] No such file or directory
+
